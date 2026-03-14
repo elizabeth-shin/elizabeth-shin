@@ -23,8 +23,7 @@ AI Learning Architect focused on developer education and practical AI‑augmente
 - Tutorials and workflow examples (coming soon)
 
 ## Portfolio
-- **Architecture & AI Capability Portfolio** — rendered blueprints, workflows, and technical artifacts  
-  https://elizabeth-shin.github.io
+- **Architecture & AI Capability Portfolio** — rendered blueprints, workflows, and technical artifacts: https://elizabeth-shin.github.io
 
 ## Contact
 - **Professional profile and background** — https://elizabethshin.squarespace.com
