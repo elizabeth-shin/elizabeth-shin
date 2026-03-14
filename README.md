@@ -27,6 +27,6 @@ AI Learning Architect focused on developer education and practical AI‑augmente
   https://elizabeth-shin.github.io
 
 ## Contact
-**Professional profile and background**  
-https://elizabethshin.squarespace.com
+- **Professional profile and background** — https://elizabethshin.squarespace.com
+
 
