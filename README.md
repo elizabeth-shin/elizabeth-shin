@@ -13,6 +13,7 @@ AI Learning Architect focused on developer education and practical AI‑augmente
 ## What I’m Building
 - **DailyDos** — a lightweight behavior‑design tool built with Base44.  
 - **iCertify Toolkit** — modular certification architecture and enablement system.  
+- **iCertify Website** — https://elizabeth-shin.github.io/icertify/  
 - **AI Learning Labs** — hands‑on labs and tutorials for emerging AI workflows.  
 - **Agentic Workflow Patterns** — clear, practical examples of agent and RAG‑based systems.
 
