@@ -21,7 +21,6 @@ Senior Learning Architect and TPM specializing in AI enablement, cybersecurity e
 - iCertify Toolkit  
 - AI Learning Labs  
 - Tutorials and workflow examples (coming soon)
-- DailyDos  
 
 ## Portfolio
 - **Architecture & AI Capability Portfolio** — https://elizabeth-shin.github.io
