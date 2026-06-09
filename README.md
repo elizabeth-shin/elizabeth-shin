@@ -11,7 +11,8 @@ Senior Learning Architect and TPM specializing in AI enablement, cybersecurity e
 ## What I'm Building
 - **iCertify Toolkit** — modular certification architecture and enablement system.  
 - **iCertify Website** — https://elizabeth-shin.github.io/icertify/  
-- **Agentic Workflow Patterns** — clear, practical examples of agent and RAG-based systems.  
+- **Japan Itinerary Builder** — simple interactive travel planner (Live: https://cozy-raindrop-b192e2.netlify.app/)  
+- **Agentic Workflow Patterns** — clear, practical examples of agent and RAG-based systems.
 
 ## Projects
 - iCertify Toolkit  
