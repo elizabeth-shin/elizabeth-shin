@@ -1,6 +1,6 @@
 # Elizabeth Shin
 
-Senior Learning Architect and TPM specializing in AI enablement, cybersecurity education, and certification program design. Founder, iCertify LLC.
+Senior Technical Program Manager & Learning Architect specializing in IAM governance, cybersecurity enablement, and AI‑supported certification systems. Founder of iCertify LLC.
 
 ## Focus Areas
 - AI Enablement Architecture  
