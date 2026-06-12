@@ -10,13 +10,13 @@ Senior Learning Architect and TPM specializing in AI enablement, cybersecurity e
 - AI-Augmented Learning Experiences  
 
 ## What I'm Building
-- **iCertify Toolkit** — modular certification architecture and enablement system.  
-- **iCertify Website** — https://elizabeth-shin.github.io/icertify/  
-- **Japan Itinerary Builder** — simple interactive travel planner (Live: https://cozy-raindrop-b192e2.netlify.app/)  
-- **Job Description Analyzer** — Claude API tool for extracting skills, keywords, and seniority signals.  
-- **Certification Study Coach** — multi-turn study assistant with quizzes and feedback.  
-- **AI Governance Readiness Assessment** — 7-question intake that generates governance risk tiers.  
-- **Agentic Workflow Patterns** — clear, practical examples of agent and RAG-based systems.  
+- **iCertify Toolkit** — modular certification architecture and enablement system.
+- **iCertify Website** — https://elizabeth-shin.github.io/icertify/
+- **Job Description Analyzer** — Claude API tool for extracting skills, keywords, and seniority signals. (Live: https://elizabeth-shin.github.io/job-description-analyzer/)
+- **AI Governance Readiness Assessment** — interactive intake that generates governance risk tiers, compliance flags, and a council-ready summary. (Live: https://elizabeth-shin.github.io/ai-governance-readiness-assessment/)
+- **Certification Study Coach** — multi-turn study assistant with quizzes and feedback. (Live demo available on request.)
+- **Japan Itinerary Builder** — simple interactive travel planner. (Live: https://cozy-raindrop-b192e2.netlify.app/)
+- **Agentic Workflow Patterns** — clear, practical examples of agent and RAG-based systems. 
 
 ## Projects
 - iCertify Toolkit  
