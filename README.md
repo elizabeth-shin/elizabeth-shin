@@ -1,31 +1,45 @@
-# Elizabeth Shin
+# Elizabeth Shin, Ed.D.
+**Senior Technical Program Manager & Learning Systems Architect** *Specializing in IAM governance, cybersecurity enablement, and AI-supported certification ecosystems.* *Founder of iCertify LLC.*
 
-Senior Technical Program Manager & Learning Architect specializing in IAM governance, cybersecurity enablement, and AI‑supported certification systems. Founder of iCertify LLC.
+---
 
-## Focus Areas
-- AI Enablement Architecture  
-- Cybersecurity and IAM Learning Programs  
-- Certification System Design  
-- Role-Based Capability Frameworks  
-- AI-Augmented Learning Experiences  
+## 🎯 Focus Areas
+* **AI Enablement Architecture** – Designing scalable operational frameworks for enterprise AI adoption.
+* **Identity & Access Management (IAM)** – Architecting role-based capability and governance programs.
+* **Learning Systems Design** – Building high-impact, technical upskilling ecosystems.
+* **Workforce Capability Frameworks** – Mapping skills, metrics, and role-specific readiness models.
 
-## What I'm Building
-- **iCertify Toolkit** — modular certification architecture and enablement system.
-- **iCertify Website** — https://elizabeth-shin.github.io/icertify/
-- **Job Description Analyzer** — Claude API tool for extracting skills, keywords, and seniority signals. (Live demo: https://elizabeth-shin.github.io/job-description-analyzer/ — interface is fully interactive; connect an Anthropic API key to generate live results.)
-- **AI Governance Readiness Assessment** — interactive intake that generates governance risk tiers, compliance flags, and a council-ready summary. (Live demo: https://elizabeth-shin.github.io/ai-governance-readiness-assessment/ — interface is fully interactive; connect an Anthropic API key to generate live results.)
-- **Certification Study Coach** — multi-turn study assistant with quizzes and feedback. (Live demo available on request.)
-- **Japan Itinerary Builder** — simple interactive travel planner. (Live: https://cozy-raindrop-b192e2.netlify.app/)
-- **Agentic Workflow Patterns** — clear, practical examples of agent and RAG-based systems.
+---
 
-## Projects
-- iCertify Toolkit  
-- Enablement Blueprints and Frameworks  
-- AI-Augmented Tools (Claude API)  
-- Agentic Workflow Patterns  
+## 🛠️ What I'm Building
 
-## Portfolio
-- **Architecture & AI Capability Portfolio** — https://elizabeth-shin.github.io  
+### 🤖 AI Governance & Workspace Analytics
+* **AI Governance Readiness Assessment** – An interactive intake tool utilizing the Anthropic Claude API to evaluate enterprise risk tiers, policy compliance flags, and council-ready reporting structures.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/ai-governance-readiness-assessment/)
+* **Job Description Analyzer** – An NLP parsing application powered by the Claude API to execute workforce capability mapping, extracting core architectural skills and alignment signals from target JDs.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/job-description-analyzer/)
+* **Agentic Workflow Patterns** – A repository showcasing functional, production-ready design patterns for Retrieval-Augmented Generation (RAG) and autonomous AI agent architectures.
 
-## Contact
-- **Professional profile and background** — https://elizabethshin.squarespace.com
+### 🔐 Cybersecurity & Learning Systems
+* **iCertify Toolkit** – A modular, framework-driven ecosystem designed to automate and scale advanced technical engineering tracks and certification paths.  
+  👉 [iCertify Website](https://elizabeth-shin.github.io/icertify/)
+* **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.
+* **Japan Itinerary Builder** – A lightweight, interactive workflow application leveraging client-side state management for rapid travel orchestration.  
+  👉 [Live Demo](https://cozy-raindrop-b192e2.netlify.app/)
+
+---
+
+## 📊 Frameworks & Digital Assets
+* 🛠️ **Enterprise Toolkits & Blueprints (Coming Summer 2026)** – Fully deployable RACI models, AI governance intake templates, and IAM identity flow architectures designed for modern technical program leaders.
+
+---
+
+## 📂 Featured Portfolios
+* **Architecture & AI Capability Portfolio** ──► [View Interactive Site](https://elizabeth-shin.github.io)
+* **Professional Background & Case Studies** ──► [View Enterprise Profile](https://elizabethshin.squarespace.com)
+
+---
+
+## 📨 Connect With Me
+* **LinkedIn:** [in/drelizabethshin](https://www.linkedin.com/in/drelizabethshin)
+* **Email:** [elizabeth@icertify.tech](mailto:elizabeth@icertify.tech)
