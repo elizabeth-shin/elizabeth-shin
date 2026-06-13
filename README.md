@@ -23,13 +23,17 @@
 * **iCertify Toolkit** – A modular, framework-driven ecosystem designed to automate and scale advanced technical engineering tracks and certification paths.  
   👉 [iCertify Website](https://elizabeth-shin.github.io/icertify/)
 * **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.
-* **Japan Itinerary Builder** – A lightweight, interactive workflow application leveraging client-side state management for rapid travel orchestration.  
-  👉 [Live Demo](https://cozy-raindrop-b192e2.netlify.app/)
 
 ---
 
 ## 📊 Frameworks & Digital Assets
 * 🛠️ **Enterprise Toolkits & Blueprints (Coming Summer 2026)** – Fully deployable RACI models, AI governance intake templates, and IAM identity flow architectures designed for modern technical program leaders.
+
+---
+
+## 🧰 Other Projects
+* **Japan Itinerary Builder** – A lightweight, interactive workflow application leveraging client-side state management for rapid travel orchestration.  
+  👉 [Live Demo](https://cozy-raindrop-b192e2.netlify.app/)
 
 ---
 
