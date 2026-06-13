@@ -18,7 +18,6 @@
   👉 [Live Demo](https://elizabeth-shin.github.io/ai-governance-readiness-assessment/)
 * **Job Description Analyzer** – An NLP parsing application powered by the Claude API to execute workforce capability mapping, extracting core architectural skills and alignment signals from target JDs.  
   👉 [Live Demo](https://elizabeth-shin.github.io/job-description-analyzer/)
-* **Agentic Workflow Patterns** – A repository showcasing functional, production-ready design patterns for Retrieval-Augmented Generation (RAG) and autonomous AI agent architectures.
 
 ### 🔐 Cybersecurity & Learning Systems
 * **iCertify Toolkit** – A modular, framework-driven ecosystem designed to automate and scale advanced technical engineering tracks and certification paths.  
