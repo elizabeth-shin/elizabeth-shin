@@ -11,19 +11,21 @@
 
 ---
 
-## 🛠️ What I'm Building
+## 🛠️ What I've Built
 
 ### 🤖 AI Governance & Workspace Analytics
 * **AI Governance Readiness Assessment** – An interactive intake tool utilizing the Anthropic Claude API to evaluate enterprise risk tiers, policy compliance flags, and council-ready reporting structures.  
   👉 [Live Demo](https://elizabeth-shin.github.io/ai-governance-readiness-assessment/)
+* **Governance Policy Assistant** – A retrieval-augmented AI tool that answers AI governance questions grounded in a curated reference library (NIST AI RMF, the EU AI Act, and the ARISE Framework), retrieving the most relevant passages before generating an answer and citing its exact sources rather than relying on general knowledge.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/governance-policy-assistant/)
 * **Job Description Analyzer** – An NLP parsing application powered by the Claude API to execute workforce capability mapping, extracting core architectural skills and alignment signals from target JDs.  
   👉 [Live Demo](https://elizabeth-shin.github.io/job-description-analyzer/)
+* **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/certification-study-coach/)
 
 ### 🔐 Cybersecurity & Learning Systems
 * **iCertify Toolkit** – A modular, framework-driven ecosystem designed to automate and scale advanced technical engineering tracks and certification paths.  
   👉 [iCertify Website](https://elizabeth-shin.github.io/icertify/)
-* **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.  
-  👉 [Live Demo](https://elizabeth-shin.github.io/certification-study-coach/)
 
 ---
 
