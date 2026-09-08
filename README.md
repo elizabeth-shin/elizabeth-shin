@@ -33,8 +33,8 @@
 ---
 
 ## 🧰 Other Projects
-* **Japan Itinerary Builder** – A lightweight, interactive workflow application leveraging client-side state management for rapid travel orchestration.  
-  👉 [Live Demo](https://cozy-raindrop-b192e2.netlify.app/)
+- **Japan Itinerary Builder** – An AI-powered travel itinerary generator using the Claude API to build personalized day-by-day plans based on destination, budget, and season.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/japan-travel-itinerary-generator/)
 
 ---
 
