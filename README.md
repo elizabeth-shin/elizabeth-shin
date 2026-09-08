@@ -22,7 +22,8 @@
 ### 🔐 Cybersecurity & Learning Systems
 * **iCertify Toolkit** – A modular, framework-driven ecosystem designed to automate and scale advanced technical engineering tracks and certification paths.  
   👉 [iCertify Website](https://elizabeth-shin.github.io/icertify/)
-* **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.
+* **Certification Study Coach** – A multi-turn contextual assistant built to deliver targeted technical exam prep, active recall coaching, and dynamic feedback loops.  
+  👉 [Live Demo](https://elizabeth-shin.github.io/certification-study-coach/)
 
 ---
 
