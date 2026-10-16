@@ -13,6 +13,10 @@
 
 ## 🛠️ What I've Built
 
+### 🔌 MCP & Agent Development
+* **Certification Lookup MCP Server** – A Python MCP server built with the official MCP SDK that gives Claude a `get_certification` tool for looking up Claude certification details, connected to Claude Desktop.  
+  👉 [View Repo](https://github.com/elizabeth-shin/cert-mcp-server)
+
 ### 🤖 AI Governance & Workspace Analytics
 * **AI Governance Readiness Assessment** – An interactive intake tool utilizing the Anthropic Claude API to evaluate enterprise risk tiers, policy compliance flags, and council-ready reporting structures.  
   👉 [Live Demo](https://elizabeth-shin.github.io/ai-governance-readiness-assessment/)
